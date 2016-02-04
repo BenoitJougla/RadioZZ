@@ -1,0 +1,8 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="4" time="0.005">
+  <testcase classname="__main__.qa_rds_encoder" name="test_001_t" time="0.0032"></testcase>
+  <testcase classname="__main__.qa_rds_encoder" name="test_002_t" time="0.0004"></testcase>
+  <testcase classname="__main__.qa_rds_encoder" name="test_003_t" time="0.0003"></testcase>
+  <testcase classname="__main__.qa_rds_encoder" name="test_004_t" time="0.0005"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
